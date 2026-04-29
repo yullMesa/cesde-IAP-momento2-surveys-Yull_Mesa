@@ -14,7 +14,7 @@ Este repositorio contiene la solución técnica para la evaluación del Momento 
 * **Control de Versiones:** Historial de commits detallado siguiendo el flujo de trabajo solicitado.
 
 ## 🔒 Aviso de Privacidad
-> **Nota para el evaluador:** El acceso a este código está destinado exclusivamente al **Profesor Daniel Morales Jiménez**. Se prohíbe su reproducción o distribución para fines ajenos a la evaluación académica.
+>  El acceso a este código está destinado exclusivamente al **Profesor Daniel Morales Jiménez**. Se prohíbe su reproducción o distribución para fines ajenos a la evaluación académica.
 
 ## 🛠️ Tecnologías
 * HTML5 (Handcoded)
